@@ -9,5 +9,6 @@ class Users extends Component {
             </div>
         );
     }
+};
 
 export default Users;
